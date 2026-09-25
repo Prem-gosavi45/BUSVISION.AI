@@ -1,0 +1,5 @@
+train: D:/urban-intelligence/urban-intelligence/data/Pothole_Yolo8/train/images
+val: D:/urban-intelligence/urban-intelligence/data/Pothole_Yolo8/valid/images
+
+nc: 1
+names: ['pothole']

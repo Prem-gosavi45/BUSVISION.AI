@@ -1,0 +1,26 @@
+.env
+
+venv/
+__pycache__/
+*.pyc
+
+Frontend/node_modules/
+Frontend/dist/
+node_modules/
+
+runs/
+
+# Large datasets / generated videos
+data/Video/
+data/Pothole_Yolo8/
+*.mp4
+*.avi
+*.mov
+
+# ML model weights
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+*.pyd

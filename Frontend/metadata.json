@@ -1,0 +1,6 @@
+{
+  "name": "BusVision AI - Urban Intelligence",
+  "description": "Smart India urban transit and telemetry operations console for municipal fleet monitoring, road infrastructure, and traffic intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
